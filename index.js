@@ -1,8 +1,12 @@
 console.log("Qual o nome do herói?");
 let nomeHeroi = "Cavaleiro Leigo";
+console.log(nomeHeroi);
 
-console.log("Qual XP do Herói " + nomeHeroi);
-let XP = 8.500;
+console.log("Quanto de XP o Herói tem?");
+let XP = 8500;
+console.log(XP);
+
+console.log("O Herói tem no total de " + XP + " de experiência");
 
 let nivel = "";
 
